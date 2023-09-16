@@ -1,0 +1,12 @@
+So basically this is the OTP ( one time password ) method, you dm the user and accuse them of scamming or some shit. Which you use my fake proof bot for. 
+
+So once they are screensharing, tell them to go their email and look around there a little, once they find there email. screenshot nd write the email on https://www.roblox.com/login "Email me a one time code", WHILE THEY STILL ARE screensharing, then look at there screenshare nd a one time code should be there, copy nd paste it nd boom ur in lmao
+
+
+How to setup fake proof is basically just download python, use pip to install requests, discord.py==1.7.3 and discord==1.7.3 and then open main.py and enter the token and channel id nd then run main.py and your started lol.
+
+
+For help add me: touch#1140
+
+
+Fuck bossman and zeon & adam. all 3 are skids w no life, cant code themselfs
